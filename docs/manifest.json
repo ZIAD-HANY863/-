@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "مخزن البركة للمجمدات",
+  "short_name": "البركة",
+  "start_url": "/makhzn/",
+  "scope": "/makhzn/",
+  "theme_color": "#0056b3",
+  "id": "makhzn",
+  "description": "نظام إدارة مخزون ومبيعات البركة"
+}
